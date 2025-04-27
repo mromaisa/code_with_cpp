@@ -1,0 +1,9 @@
+Recipe Name: Chicken Sandwitch
+Category: 
+Ingredients: chicken,bread,sauces,seasoning,
+Instructions: 
+marinate chicken
+fry the chicken as well bread
+spread seasoning sauces and chicken on bread
+present it
+---

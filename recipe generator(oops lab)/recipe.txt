@@ -1,0 +1,26 @@
+Recipe Name: Grilled Cheese Sandwich
+Ingredients: bread, cheese, butter
+Instructions: Grill the sandwich until golden brown.
+---
+Recipe Name: Chicken Curry
+Ingredients: chicken, spices, onion
+Instructions: Cook chicken with spices until done.
+---
+Recipe Name: Veg
+Ingredients: chicken, salt
+Instructions: go to  hell!!
+---
+Recipe Name: Chicken Sandwitch
+Ingredients: chicken,bread,sauces,seasoning,
+Instructions: 
+marinate chicken
+fry the chicken as well bread
+spread seasoning sauces and chicken on bread
+present it
+---
+Recipe Name: Chicken shwarma
+Ingredients: roti,chicken,sauces,salad vegetables,
+Instructions: 
+prepare chicken dough and sauces seperately
+spread everything on dough or roti
+---
