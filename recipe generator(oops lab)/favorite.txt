@@ -7,3 +7,12 @@ fry the chicken as well bread
 spread seasoning sauces and chicken on bread
 present it
 ---
+Recipe Name: Kheer
+Category: Dessert
+Ingredients: milk,rice,sugar,cardamom,nuts,
+Instructions: 
+boil rice in milk
+add sugar and cardamom
+cook till thick
+garnish with nuts
+---

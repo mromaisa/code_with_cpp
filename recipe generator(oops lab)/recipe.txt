@@ -1,26 +1,246 @@
-Recipe Name: Grilled Cheese Sandwich
-Ingredients: bread, cheese, butter
-Instructions: Grill the sandwich until golden brown.
----
-Recipe Name: Chicken Curry
-Ingredients: chicken, spices, onion
-Instructions: Cook chicken with spices until done.
----
-Recipe Name: Veg
-Ingredients: chicken, salt
-Instructions: go to  hell!!
----
-Recipe Name: Chicken Sandwitch
-Ingredients: chicken,bread,sauces,seasoning,
+Recipe Name: Chicken Sandwich
+Category: Fast Food
+Ingredients: chicken, bread, sauces, seasoning,
 Instructions: 
 marinate chicken
 fry the chicken as well bread
 spread seasoning sauces and chicken on bread
 present it
 ---
-Recipe Name: Chicken shwarma
-Ingredients: roti,chicken,sauces,salad vegetables,
+
+Recipe Name: Veggie Wrap
+Category: Vegetarian
+Ingredients: tortilla, lettuce, tomato, cucumber, hummus,
 Instructions: 
-prepare chicken dough and sauces seperately
-spread everything on dough or roti
+spread hummus on tortilla
+add chopped veggies
+wrap tightly
+serve with dip
 ---
+
+Recipe Name: Egg Fried Rice
+Category: Asian
+Ingredients: rice, eggs, soy sauce, green onions, oil,
+Instructions: 
+scramble eggs and set aside
+fry rice in oil
+add soy sauce and scrambled eggs
+mix and serve
+---
+
+Recipe Name: Spaghetti Bolognese
+Category: Italian
+Ingredients: spaghetti, ground beef, tomato sauce, garlic, onion,
+Instructions: 
+boil spaghetti
+cook beef with garlic and onion
+add tomato sauce and simmer
+combine with pasta and serve
+---
+
+Recipe Name: Grilled Cheese
+Category: Snack
+Ingredients: bread, cheese, butter,
+Instructions: 
+butter bread slices
+add cheese between slices
+grill until golden brown
+serve hot
+---
+
+Recipe Name: Classic Pancakes
+Category: Breakfast
+Ingredients: flour, milk, eggs, sugar, baking powder,
+Instructions: 
+mix ingredients into batter
+pour onto heated pan
+flip when bubbly
+serve with syrup
+---
+
+Recipe Name: Caesar Salad
+Category: Salad
+Ingredients: lettuce, croutons, parmesan, caesar dressing, chicken,
+Instructions: 
+chop lettuce
+add croutons and chicken
+drizzle dressing and top with parmesan
+toss and serve
+---
+
+Recipe Name: Chicken Curry
+Category: Pakistani
+Ingredients: chicken, onions, tomatoes, spices, oil,
+Instructions: 
+fry onions and spices
+add chicken and tomatoes
+cook until tender
+serve with rice or naan
+---
+
+Recipe Name: Aloo Paratha
+Category: Breakfast
+Ingredients: flour, potatoes, spices, butter,
+Instructions: 
+knead dough and prepare potato filling
+roll dough with filling
+cook on tawa with butter
+serve hot
+---
+
+Recipe Name: Chocolate Mug Cake
+Category: Dessert
+Ingredients: flour, cocoa powder, sugar, milk, oil,
+Instructions: 
+mix all ingredients in a mug
+microwave for 2 minutes
+cool slightly
+enjoy
+---
+
+Recipe Name: Fruit Chaat
+Category: Snack
+Ingredients: apple, banana, orange, spices, lemon juice,
+Instructions: 
+chop fruits
+add spices and lemon juice
+mix well
+chill and serve
+---
+
+Recipe Name: Omelette
+Category: Breakfast
+Ingredients: eggs, onion, chili, salt, pepper,
+Instructions: 
+beat eggs and mix veggies
+cook in pan
+fold and serve
+---
+
+Recipe Name: Tuna Sandwich
+Category: Fast Food
+Ingredients: tuna, mayo, bread, onion, lettuce,
+Instructions: 
+mix tuna with mayo and onion
+spread on bread with lettuce
+cut and serve
+---
+
+Recipe Name: Biryani
+Category: Pakistani
+Ingredients: rice, chicken, yogurt, spices, onion,
+Instructions: 
+layer cooked chicken and rice
+add fried onions
+steam cook
+serve hot
+---
+
+Recipe Name: French Toast
+Category: Breakfast
+Ingredients: bread, eggs, sugar, milk, cinnamon,
+Instructions: 
+mix eggs, milk, sugar
+dip bread in mixture
+fry until golden
+serve with syrup
+---
+
+Recipe Name: Mac and Cheese
+Category: Pasta
+Ingredients: macaroni, cheese, milk, butter, flour,
+Instructions: 
+boil macaroni
+make cheese sauce
+mix and bake
+serve hot
+---
+
+Recipe Name: Garlic Bread
+Category: Side
+Ingredients: bread, garlic, butter, parsley,
+Instructions: 
+mix garlic with butter
+spread on bread
+bake until crispy
+serve warm
+---
+
+Recipe Name: Chicken Nuggets
+Category: Snack
+Ingredients: chicken, breadcrumbs, flour, egg, oil,
+Instructions: 
+coat chicken with flour, egg, and breadcrumbs
+deep fry until golden
+drain and serve
+---
+
+Recipe Name: Smoothie
+Category: Drink
+Ingredients: banana, milk, yogurt, honey, ice,
+Instructions: 
+blend all ingredients
+pour into glass
+serve chilled
+---
+
+Recipe Name: Chana Chaat
+Category: Street Food
+Ingredients: chickpeas, onion, tomato, spices, lemon,
+Instructions: 
+mix all ingredients
+add spices and lemon
+toss and serve
+---
+
+Recipe Name: Corn Soup
+Category: Soup
+Ingredients: corn, chicken, egg, cornflour, soy sauce,
+Instructions: 
+boil chicken and corn
+add cornflour to thicken
+add beaten egg slowly
+season and serve
+---
+
+Recipe Name: Qeema
+Category: Pakistani
+Ingredients: minced meat, onion, tomato, garlic, spices,
+Instructions: 
+cook onion and spices
+add qeema and tomato
+simmer until done
+serve with roti
+---
+
+Recipe Name: Chicken Shawarma
+Category: Middle Eastern
+Ingredients: chicken, pita, garlic sauce, lettuce, tomato,
+Instructions: 
+cook spiced chicken
+fill pita with chicken and toppings
+wrap and grill
+serve hot
+---
+
+Recipe Name: Pizza
+Category: Fast Food
+Ingredients: pizza dough, sauce, cheese, toppings,
+Instructions: 
+spread sauce on dough
+add cheese and toppings
+bake until golden
+serve hot
+---
+
+Recipe Name: Kheer
+Category: Dessert
+Ingredients: milk, rice, sugar, cardamom, nuts,
+Instructions: 
+boil rice in milk
+add sugar and cardamom
+cook till thick
+garnish with nuts
+---
+
+Would you like me to save this as a `.txt` file for you to download?
